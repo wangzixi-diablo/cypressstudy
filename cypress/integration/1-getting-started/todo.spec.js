@@ -22,7 +22,7 @@ describe('example to-do app', () => {
         // contentWindow is the remote page's window object
         debugger;
       }
-    })
+    }).debug();
   })
 
   it('displays two todo items by default', () => {
