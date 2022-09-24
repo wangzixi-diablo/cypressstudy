@@ -10,6 +10,11 @@ https://example.cypress.io/__cypress/runner/cypress_runner.js
 
 * [cy.visit 执行逻辑的单步调试](https://jerry.blog.csdn.net/article/details/126510657)
 
+* [单步调试找到 cy.visit 的实现源代码(一) - 找到了 BlueBird](https://blog.csdn.net/i042416/article/details/127018471)
+
 # how to start project
 
 `yarn cypress:open`
+
+# 问题
+
